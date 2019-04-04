@@ -10,8 +10,8 @@ def sum_numbers(x, y):
         Sum of x and y.
     """
     # replace the following line with an actual implementation that returns something
-    raise NotImplementedError()
-
+#     raise NotImplementedError()
+    return x+y
 def multiply_numbers(x, y):
     """
     TODO: IMPLEMENT ME
@@ -24,4 +24,5 @@ def multiply_numbers(x, y):
         Product of x and y.
     """
     # replace the following line with an actual implementation that returns something
-    raise NotImplementedError()
+#     raise NotImplementedError()
+    return x*y
